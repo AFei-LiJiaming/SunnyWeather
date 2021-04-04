@@ -31,9 +31,6 @@ object SunnyWeatherNetwork {
                     continuation.resumeWithException(t)
                 }
             })
-
         }
     }
-
-    
 }
